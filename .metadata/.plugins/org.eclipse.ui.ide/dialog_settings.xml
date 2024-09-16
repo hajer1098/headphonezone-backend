@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="installedFeatures">
+		<item value="com.ibm.etools.iseries.projects.core:8.5.100.v20130506_0020"/>
+		<item value="com.ibm.etools.iseries.toolbox:8.5.100.v20130506_0020"/>
+		<item value="com.ibm.etools.unix.cobol.projects.core.nl1:1.0.0.v20130322_2121"/>
+		<item value="com.ibm.etools.unix.cobol.projects.core:1.1.3.v20130322_2121"/>
+		<item value="org.eclipse.cvs:1.4.100.v20150204-1700"/>
+		<item value="org.eclipse.draw2d:3.9.101.201408150207"/>
+		<item value="org.eclipse.emf.codegen.ecore.ui:2.10.0.v20150123-0452"/>
+		<item value="org.eclipse.emf.codegen.ecore:2.10.2.v20150123-0452"/>
+		<item value="org.eclipse.emf.codegen.ui:2.8.0.v20150123-0452"/>
+		<item value="org.eclipse.emf.codegen:2.10.0.v20150123-0452"/>
+		<item value="org.eclipse.emf.common.ui:2.9.0.v20150123-0452"/>
+		<item value="org.eclipse.emf.common:2.10.1.v20150123-0348"/>
+		<item value="org.eclipse.emf.converter:2.10.0.v20150123-0452"/>
+		<item value="org.eclipse.emf.databinding.edit:1.4.0.v20150123-0452"/>
+		<item value="org.eclipse.emf.databinding:1.4.0.v20150123-0452"/>
+		<item value="org.eclipse.emf.ecore.edit:2.9.0.v20150123-0452"/>
+		<item value="org.eclipse.emf.ecore.editor:2.10.1.v20150123-0452"/>
+		<item value="org.eclipse.emf.ecore:2.10.2.v20150123-0348"/>
+		<item value="org.eclipse.emf.edit.ui:2.10.2.v20150123-0452"/>
+		<item value="org.eclipse.emf.edit:2.10.1.v20150123-0452"/>
+		<item value="org.eclipse.emf.mapping.ecore.editor:2.9.0.v20150123-0452"/>
+		<item value="org.eclipse.emf.mapping.ecore:2.8.0.v20150123-0452"/>
+		<item value="org.eclipse.emf.mapping.ui:2.8.0.v20150123-0452"/>
+		<item value="org.eclipse.emf.mapping:2.8.0.v20150123-0452"/>
+		<item value="org.eclipse.emf:2.10.2.v20150123-0452"/>
+		<item value="org.eclipse.gef:3.9.101.201408150207"/>
+		<item value="org.eclipse.help.nls1:2.0.103.v201503031136"/>
+		<item value="org.eclipse.help.nls2:2.0.103.v201503031136"/>
+		<item value="org.eclipse.help.nls2a:2.0.103.v201503031136"/>
+		<item value="org.eclipse.help:2.0.103.v20150204-1700"/>
+		<item value="org.eclipse.jdt:3.10.1.v20150204-1700"/>
+		<item value="org.eclipse.pde:3.10.1.v20150204-1700"/>
+		<item value="org.eclipse.platform:4.4.2.v20150204-1700"/>
+		<item value="org.eclipse.rcp.nls1:4.4.2.v201503031136"/>
+		<item value="org.eclipse.rcp.nls2:4.4.2.v201503031136"/>
+		<item value="org.eclipse.rcp.nls2a:4.4.2.v201503031136"/>
+		<item value="org.eclipse.rcp:4.4.2.v20150204-1700"/>
+		<item value="org.eclipse.xsd:2.10.0.v20150123-0452"/>
+	</list>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_Y_ORIGIN" value="181"/>
+		<item key="DIALOG_X_ORIGIN" value="381"/>
+	</section>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\AHWA solutions\HeadphoneZone-project\Headphone-zone"/>
+		</list>
+	</section>
+</section>

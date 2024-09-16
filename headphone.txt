@@ -1,0 +1,25 @@
+admin : manage categories 
+      : manage products 
+
+visiteur :  consult categories
+            consult products
+            filter categories by product /price
+            search products 
+            view product details 
+            chart card 
+            add to chart
+
+this weekend : 
+- manage categories 
+- manage products 
+-search product
+
+ Tests avec JUnit et Mockito
+
+cart and order ?? 
+
+
+@onToOne cascade.All??
+
+https://www.w3resource.com/java-exercises/basic/index.php
+  

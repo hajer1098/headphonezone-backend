@@ -1,0 +1,12 @@
+server:
+  port: 8091
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/headphone_db
+    driver-class-name: org.postgresql.Driver
+    username: postgres
+    password:
+  jpa:
+    hibernate:
+      ddl-auto: update
+    database: postgresql
